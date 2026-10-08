@@ -9,7 +9,7 @@ X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:e14ca7089f60625730278e1f24addc54@hana-calendar-sync
-DTSTAMP:20261007T021129Z
+DTSTAMP:20261008T023556Z
 DTSTART:20261010T060000Z
 DTEND:20261010T090000Z
 SUMMARY:【公演】 BMSG FES’26 — お台場BMSG FES特設会場
@@ -20,7 +20,7 @@ URL:https://hana.b-rave.tokyo/live/260630-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:c68e2d6ccfcf034c9309cc9969343aba@hana-calendar-sync
-DTSTAMP:20261007T021129Z
+DTSTAMP:20261008T023556Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:【発売】 HIGHSNOBIETY JAPAN ISSUE17+ CHIKA
@@ -29,7 +29,7 @@ URL:https://hana.b-rave.tokyo/media/magazine/261001/
 END:VEVENT
 BEGIN:VEVENT
 UID:ba3ee7e2410bc8bc8cc309a501316837@hana-calendar-sync
-DTSTAMP:20261007T021129Z
+DTSTAMP:20261008T023556Z
 DTSTART:20261011T060000Z
 DTEND:20261011T090000Z
 SUMMARY:【公演】 BMSG FES’26 — お台場BMSG FES特設会場
@@ -40,7 +40,7 @@ URL:https://hana.b-rave.tokyo/live/260630-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:090558327f2438e4252d9b64ea188137@hana-calendar-sync
-DTSTAMP:20261007T021129Z
+DTSTAMP:20261008T023556Z
 DTSTART:20261012T060000Z
 DTEND:20261012T090000Z
 SUMMARY:【公演】 BMSG FES’26 — お台場BMSG FES特設会場
@@ -50,8 +50,55 @@ DESCRIPTION:開場 13:00 / 開演 15:00\n会場 お台場BMSG FES特設会
 URL:https://hana.b-rave.tokyo/live/260630-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:477041b58db0cda0b69c66a263bf6f06@hana-calendar-sync
+DTSTAMP:20261008T023556Z
+DTSTART:20261012T145900Z
+DTEND:20261012T152900Z
+SUMMARY:【チケット申込締切】 ASIA POP GIRL FEST 2027（HANA FC / 
+ B-Town Architect）
+DESCRIPTION:受付開始 10/07 18:00\n申込締切 10/12 23:59\n当落発
+ 表 10/20 12:00\n対象 HANA FC / B-Town Architect\n出典 https://hana.b-
+ rave.tokyo/live/asia-pop-girl-fest-2027_ticket/
+URL:https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_ticket/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d5c0ced76916c89342414308fd6ab9d@hana-calendar-sync
+DTSTAMP:20261008T023556Z
+DTSTART:20261020T030000Z
+DTEND:20261020T033000Z
+SUMMARY:【FC先行・当落発表】 ASIA POP GIRL FEST 2027（HANA Offici
+ al FC / B-Town Architect）
+DESCRIPTION:出典 https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_t
+ icket/
+URL:https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_ticket/
+END:VEVENT
+BEGIN:VEVENT
+UID:e541fae5704ef5cd8f1ffe3e9b92644a@hana-calendar-sync
+DTSTAMP:20261008T023556Z
+DTSTART:20261020T090000Z
+DTEND:20261020T093000Z
+SUMMARY:【チケット申込開始】 ASIA POP GIRL FEST 2027（B-Town Res
+ ident）
+DESCRIPTION:受付開始 10/20 18:00\n申込締切 10/25 23:59\n当落発
+ 表 10/31 12:00\n対象 B-Town Resident\n出典 https://hana.b-rave.tokyo/
+ live/asia-pop-girl-fest-2027_ticket/
+URL:https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_ticket/
+END:VEVENT
+BEGIN:VEVENT
+UID:573170f515432d2d0eca7ce5590325bf@hana-calendar-sync
+DTSTAMP:20261008T023556Z
+DTSTART:20261025T145900Z
+DTEND:20261025T152900Z
+SUMMARY:【チケット申込締切】 ASIA POP GIRL FEST 2027（B-Town Res
+ ident）
+DESCRIPTION:受付開始 10/20 18:00\n申込締切 10/25 23:59\n当落発
+ 表 10/31 12:00\n対象 B-Town Resident\n出典 https://hana.b-rave.tokyo/
+ live/asia-pop-girl-fest-2027_ticket/
+URL:https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_ticket/
+END:VEVENT
+BEGIN:VEVENT
 UID:bf0a0115418f430efd45b423758dc616@hana-calendar-sync
-DTSTAMP:20261007T021129Z
+DTSTAMP:20261008T023556Z
 DTSTART:20261029T090000Z
 DTEND:20261029T120000Z
 SUMMARY:【公演】 HANA 1st TOUR 2026 “Born to Bloom” — 日本武
@@ -63,7 +110,7 @@ URL:https://hana.b-rave.tokyo/live/260612/
 END:VEVENT
 BEGIN:VEVENT
 UID:d4dfc02dd827a6228d235a617732482b@hana-calendar-sync
-DTSTAMP:20261007T021129Z
+DTSTAMP:20261008T023556Z
 DTSTART:20261030T090000Z
 DTEND:20261030T120000Z
 SUMMARY:【公演】 HANA 1st TOUR 2026 “Born to Bloom” — 日本武
@@ -74,8 +121,19 @@ DESCRIPTION:開場 17:00 / 開演 18:00\n会場 日本武道館\n出典 htt
 URL:https://hana.b-rave.tokyo/live/260612/
 END:VEVENT
 BEGIN:VEVENT
+UID:7ecb369eee959c7614edee38351162b8@hana-calendar-sync
+DTSTAMP:20261008T023556Z
+DTSTART:20261031T030000Z
+DTEND:20261031T033000Z
+SUMMARY:【FC先行・当落発表】 ASIA POP GIRL FEST 2027（B-Town Resi
+ dent）
+DESCRIPTION:出典 https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_t
+ icket/
+URL:https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_ticket/
+END:VEVENT
+BEGIN:VEVENT
 UID:47ae770a65b73353b9653a125ab4b1bf@hana-calendar-sync
-DTSTAMP:20261007T021129Z
+DTSTAMP:20261008T023556Z
 DTSTART:20261031T073000Z
 DTEND:20261031T103000Z
 SUMMARY:【公演】 HANA 1st TOUR 2026 “Born to Bloom” — 日本武
@@ -87,7 +145,7 @@ URL:https://hana.b-rave.tokyo/live/260612/
 END:VEVENT
 BEGIN:VEVENT
 UID:434b194f4b8ca76e177724fb149ba35f@hana-calendar-sync
-DTSTAMP:20261007T021129Z
+DTSTAMP:20261008T023556Z
 DTSTART:20261031T073000Z
 DTEND:20261031T103000Z
 SUMMARY:【ライブビューイング】 HANA 1st TOUR 2026 “Born to Blo
@@ -98,29 +156,33 @@ URL:https://hana.b-rave.tokyo/live/borntobloom-liveviewing/
 END:VEVENT
 BEGIN:VEVENT
 UID:dbe2086448b0c64c91b755d8ce7d8cc5@hana-calendar-sync
-DTSTAMP:20261007T021129Z
-DTSTART;VALUE=DATE:20270122
-DTEND;VALUE=DATE:20270123
-SUMMARY:【公演】 ASIA POP GIRL FEST 2027 — LaLa arena TOKYO-BAY
-LOCATION:LaLa arena TOKYO-BAY
-DESCRIPTION:会場 LaLa arena TOKYO-BAY\n出典 https://hana.b-rave.tokyo/l
- ive/asia-pop-girl-fest-2027/
-URL:https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027/
+DTSTAMP:20261008T023556Z
+DTSTART:20270122T090000Z
+DTEND:20270122T120000Z
+SUMMARY:【公演】 ASIA POP GIRL FEST 2027 — ららアリーナ 東京
+ ベイ
+LOCATION:ららアリーナ 東京ベイ
+DESCRIPTION:開場 17:00 / 開演 18:00\n会場 ららアリーナ 東京
+ ベイ\n出典 https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_tick
+ et/
+URL:https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_ticket/
 END:VEVENT
 BEGIN:VEVENT
 UID:7889ae0beb71610fec4a0746e9938631@hana-calendar-sync
-DTSTAMP:20261007T021129Z
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
-SUMMARY:【公演】 ASIA POP GIRL FEST 2027 — LaLa arena TOKYO-BAY
-LOCATION:LaLa arena TOKYO-BAY
-DESCRIPTION:会場 LaLa arena TOKYO-BAY\n出典 https://hana.b-rave.tokyo/l
- ive/asia-pop-girl-fest-2027/
-URL:https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027/
+DTSTAMP:20261008T023556Z
+DTSTART:20270123T070000Z
+DTEND:20270123T100000Z
+SUMMARY:【公演】 ASIA POP GIRL FEST 2027 — ららアリーナ 東京
+ ベイ
+LOCATION:ららアリーナ 東京ベイ
+DESCRIPTION:開場 15:00 / 開演 16:00\n会場 ららアリーナ 東京
+ ベイ\n出典 https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_tick
+ et/
+URL:https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027_ticket/
 END:VEVENT
 BEGIN:VEVENT
 UID:46fd96553e43e06b04e72b2f3a99dae1@hana-calendar-sync
-DTSTAMP:20261007T021129Z
+DTSTAMP:20261008T023556Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:【公演】 ASIA POP GIRL FEST 2027 — BITEC LIVE
@@ -131,7 +193,7 @@ URL:https://hana.b-rave.tokyo/live/asia-pop-girl-fest-2027/
 END:VEVENT
 BEGIN:VEVENT
 UID:4e6373412763abf69e980728c6c88fc6@hana-calendar-sync
-DTSTAMP:20261007T021129Z
+DTSTAMP:20261008T023556Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:【公演】 ASIA POP GIRL FEST 2027 — SM Mall of Asia Arena
